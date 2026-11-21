@@ -1,0 +1,1 @@
+Redirect stubs for documentation that moved from `thorwhalen.github.io/<project>/` to `addaix.github.io/<project>/`. A user site serves `/<project>/` only where no project site of that name exists, so each stub takes over once its project has moved.
